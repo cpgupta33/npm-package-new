@@ -1,0 +1,15 @@
+{
+  "name": "npm-package-new",
+  "version": "1.0.0",
+  "description": "first step to create npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "demo",
+    "code"
+  ],
+  "author": "gahoicodeacademy",
+  "license": "ISC"
+}

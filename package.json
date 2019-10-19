@@ -1,14 +1,17 @@
 {
   "name": "npm-package-new",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "description": "first step to create npm package",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
 	  "type": "git",
-	  "url": "git://https://github.com/cpgupta33/npm-package-new"
+	  "url": "git://https://github.com/cpgupta33/npm-package-new.git"
   },
   "keywords": [
     "demo",
@@ -19,5 +22,5 @@
   "bugs": {
 	"url": "https://github.com/cpgupta33/npm-package-new/issues"
    },
-  "homepage": "https://github.com/cpgupta33/npm-package-new/blob/master/README.md"
+  "homepage": "https://github.com/cpgupta33/npm-package-new#readme"
 }

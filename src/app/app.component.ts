@@ -6,5 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.less']
 })
 export class AppComponent {
-  title = 'NPM-package-new';
+  title = 'NPM-package-new-chandra';
+  openAlert(){
+    alert();
+  }
 }

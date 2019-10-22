@@ -1,6 +1,7 @@
 {
   "name": "npm-package-new",
-  "version": "1.0.9",
+  "version": "1.1.0",
+  "description": "first step to create npm package",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -46,5 +47,19 @@
     "ts-node": "~7.0.0",
     "tslint": "~5.15.0",
     "typescript": "~3.5.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://https://github.com/cpgupta33/npm-package-new.git"
+  },
+  "keywords": [
+    "demo",
+    "code"
+  ],
+  "author": "gahoicodeacademy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cpgupta33/npm-package-new/issues"
+  },
+  "homepage": "https://github.com/cpgupta33/npm-package-new#readme"
 }
